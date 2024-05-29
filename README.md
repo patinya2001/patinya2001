@@ -15,3 +15,10 @@ Senior Statistics student at Chulalongkorn University | Swift Programming | I as
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/patinya2001" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/patinya-jaruariyanon/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Certificates
+
+<p>
+  <img src="https://github.com/patinya2001/iOS-Developer-Corses/assets/149204731/90d5183f-b0a0-4c1b-9573-1ee4c9dc1e21" alt="Image 1" width="400" height="297.5">
+  <img  src="https://github.com/patinya2001/iOS-Developer-Corses/assets/149204731/9b577b42-7e30-4522-bb53-7e694d081ab5"  alt="Image 2"  width="400"  height="297.5">
+</p>
