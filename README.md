@@ -19,6 +19,6 @@ Senior Statistics student at Chulalongkorn University | Swift Programming | I as
 ### Certificates
 
 <p>
-  <img src="https://github.com/patinya2001/iOS-Developer-Corses/assets/149204731/90d5183f-b0a0-4c1b-9573-1ee4c9dc1e21" alt="Image 1" width="400" height="297.5">
+  <img src="https://github.com/patinya2001/iOS-Developer-Corses/assets/149204731/90d5183f-b0a0-4c1b-9573-1ee4c9dc1e21" alt="Image 1" width="400" height="297.5" style="margin-right: 20px;">
   <img  src="https://github.com/patinya2001/iOS-Developer-Corses/assets/149204731/9b577b42-7e30-4522-bb53-7e694d081ab5"  alt="Image 2"  width="400"  height="297.5">
 </p>
